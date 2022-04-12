@@ -1,3 +1,9 @@
+# Tugas Praktikum 4 Desain Pemrograman Web
+
+Nama : Ghifari Octaverin
+NIM : 2000952
+Kelas : 4C1
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
