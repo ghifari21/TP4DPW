@@ -1,8 +1,8 @@
 # Tugas Praktikum 4 Desain Pemrograman Web
 
-Nama : Ghifari Octaverin
-NIM : 2000952
-Kelas : 4C1
+Nama : Ghifari Octaverin <br/>
+NIM : 2000952 <br/>
+Kelas : 4C1 <br/>
 
 # Getting Started with Create React App
 
